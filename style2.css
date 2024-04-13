@@ -93,7 +93,7 @@ body *{
     color: #f0ffff94;
 }
 
-.btn-3 > button{
+.btn-login {
     width: 100%;
     padding: 16px 0px;
     margin: 25px;

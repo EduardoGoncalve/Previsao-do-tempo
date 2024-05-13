@@ -1,29 +1,4 @@
-{
-    "background_color": "#bc7fea",
-    "dir": "ltr",
-    "display": "standalone",
-    "name": "temporal",
-    "orientation": "any",
-    "scope": "/",
-    "short_name": "temporal",
-    "start_url": "/",
-    "theme_color": "#974eb2",
-    "icons": [
-        {
-        "src": "imagens/nebuloso.png",
-        "type": "image/png",
-        "sizes": "512x512"
-        }
-    ],
-    "id": "temporal",
-    "description": "temporal e um aplicativo para ver o tempo de um local desejado",
-    "lang": "pt",
-    "categories": [
-        "social",
-        "travel",
-        "weather"
-    ]
-}
+
 
 const key = "d84e3bae1a18fc61a58b0ef412b1b302"
 
